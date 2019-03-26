@@ -1,0 +1,13 @@
+.btn-dark{
+    border-radius: 40px;
+}
+
+.pageImg{
+    border-radius: 50%;
+    height: 60px;
+    width: 50px;
+}
+
+.page{
+    margin-top: 10px;
+}

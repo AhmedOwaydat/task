@@ -1,0 +1,48 @@
+.navbar{
+    padding: 0.5rem 1rem!important;
+}
+
+.navbar .nav-item{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.navbar .nav-item a{
+    text-decoration: none;
+}
+
+.navbar .nav-link{
+    margin-left: 20px;
+}
+
+.navbar .nav-link:hover {
+    border-bottom: 3px solid #1DA1F2;
+    color: #1DA1F2!important;
+}
+
+.navbar .nav-link i {
+    margin-right: 10px;
+}
+
+.navbar .active_tab{
+    color: #1DA1F2!important;
+}
+
+.navbar .search-form{
+    position: relative;
+}
+
+.navbar .search-input{
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.navbar .search-btn{
+    position: absolute;
+    top: 3px;
+    right: 10px;
+}
+
+.navbar .login{
+    font-weight: bold;
+}

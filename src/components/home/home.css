@@ -1,0 +1,25 @@
+.home{
+    background-color: #ddd;
+}
+.links{
+    background-color: white;
+}
+
+.links .list-inline-item{
+    font-size: 20px;
+    border: none
+}
+
+.links .list-inline-item a{
+    color: black!important;
+}
+
+.whitebackground{
+    background-color: white;
+    padding: 20px 10px;
+    margin-top: 20px;
+}
+
+.right-bar,.left-bar,.posts{
+    margin-top: 20px;
+}

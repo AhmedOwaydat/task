@@ -1,0 +1,54 @@
+.header{
+    position: relative;
+    background-color: white;
+}
+
+.cover img{
+    height: 300px;
+    width: 100%;
+}
+
+.userImage{
+    position: absolute;
+    bottom: 20px;
+    left: 100px;
+}
+
+.userImage img{
+    border-radius: 50%;
+    max-height: 200px;
+    max-width: 200px;
+}
+
+.info{
+    box-shadow: 0 3px 4px -2px black;
+    margin-bottom: 10px;
+}
+
+.list-inline{
+    margin-bottom: 0;
+}
+
+.header .list-inline-item a{
+    text-decoration: none!important;
+    color: #657786;
+    border-bottom: 3px solid white;
+}
+
+.list-inline-item a:hover{
+    border-bottom: 3px solid black;
+}
+
+.list-inline-item{
+    font-weight: bold;
+
+}
+
+.list-inline-item .linkNumber{
+    font-size: 22px;
+}
+
+.list-inline-item a:hover .linkNumber{
+    color: black!important;
+}
+
